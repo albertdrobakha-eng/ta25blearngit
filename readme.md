@@ -7,6 +7,8 @@
 - main line 4
 - feature line 3
 - main line 5
+- main line 6
+- main line 7
 
  
 
